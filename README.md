@@ -91,8 +91,8 @@ Contributions are welcome! Please open an issue or submit a pull request to impr
 ---
 
 ## Disclaimer
-This tool is for educational and research purposes only. Ensure compliance with YouTube’s API usage policies and terms of service.
-This tool aims to demonstrate that there are certain vulnerabilities and that you should not take seriously everything you see on the internet, also the script is not fully usable, there is another fully functional version, do not avoid contacting me if you need it for education and research purposes.
+- This tool is for educational and research purposes only. Ensure compliance with YouTube’s API usage policies and terms of service.
+- This tool aims to demonstrate that there are certain vulnerabilities and that you should not take seriously everything you see on the internet, also the script is not fully usable, there is another fully functional version, do not avoid contacting me if you need it for education and research purposes.
 
 ---
 
