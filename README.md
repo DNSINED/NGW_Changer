@@ -23,8 +23,8 @@ NightBot Giveaway Assistant is a Python-based tool designed for live streamers t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nightbot-giveaway.git
-   cd nightbot-giveaway
+   git clone https://github.com/DNSINED/NGW_Changer.git
+   cd NGW_Changer
    ```
 
 2. Install dependencies:
